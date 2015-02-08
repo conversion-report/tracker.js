@@ -1,0 +1,30 @@
+{
+  "name": "conversion.report",
+  "version": "0.0.1",
+  "description": "A link conversion tracker",
+  "main": "dist/tracker.js",
+  "scripts": {
+    "test": "ember test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jdjkelly/conversion.report.git"
+  },
+  "keywords": [
+    "tracking",
+    "conversion.report"
+  ],
+  "author": "Joshua Kelly",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jdjkelly/conversion.report/issues"
+  },
+  "homepage": "https://github.com/jdjkelly/conversion.report",
+  "devDependencies": {
+    "broccoli": "^0.12.3",
+    "broccoli-coffee": "^0.1.0",
+    "broccoli-replace": "^0.1.7",
+    "broccoli-static-compiler": "^0.1.4",
+    "gulp": "^3.8.6"
+  }
+}
